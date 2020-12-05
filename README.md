@@ -1,3 +1,9 @@
+# NODE SASS
+
+Do not attempt to use node-sass 5.0.x as it's currently breaking React/CRA.
+
+Instead use 4.14.1 version specifically
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

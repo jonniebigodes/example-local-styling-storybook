@@ -9,6 +9,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
+    "react-toastify": "^6.1.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -18,7 +19,7 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public --no-manager-cache",
     "build-storybook": "build-storybook -s public",
-    "serve-storybook":"http-server storybook-static"
+    "serve-storybook": "http-server storybook-static"
   },
   "eslintConfig": {
     "extends": [

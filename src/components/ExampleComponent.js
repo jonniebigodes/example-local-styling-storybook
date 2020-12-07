@@ -5,7 +5,7 @@ export default function ExampleComponent() {
     <>
       <h3>I'm a component with custom styles with sass</h3>
       <div className='customButton'>
-        <h4>I'm inside the local module styled component</h4>
+        <h4>I'm inside the local sass styled component</h4>
       </div>
     </>
   );
